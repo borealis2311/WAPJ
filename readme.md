@@ -93,6 +93,14 @@ Designing a good program architecture and analyzing customer needs, as well as t
 As a result, in addition to gaining a better understanding of database structure, this project also aids us in improving our programming skills.
 # 8. References
 
+https://www.npmjs.com/package/browser-router
+
+https://www.npmjs.com/package/webfontloader
+
+https://www.npmjs.com/package/overlay-navbar
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects?fbclid=IwAR23UsUXVCvUX5PqgnBQnwkA_H4RilR2rlEhkKH8I9Amj83vCrs1A7DEGOc
+
 https://mongoosejs.com/docs/index.html
 
 https://www.mongodb.com/docs/manual/tutorial/insert-documents/
@@ -104,3 +112,5 @@ https://www.geeksforgeeks.org/node-js-utility-module/
 https://docs.npmjs.com/
 
 https://sailsjs.com/documentation/reference/request-req
+
+https://www.geeksforgeeks.org/reactjs-router/
