@@ -38,12 +38,21 @@ Online purchasing has risen in popularity in recent years. Customers can buy goo
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
   
+- Libraries declared:
+    - overlay-navbar
+    - webfontloader
+    - browser-router
+    - stripe/react-stripe-js
+    - react-icons
+    - react-alert
+  
 - Technology used: 
   ![Node/expressjs](https://img.shields.io/badge/Node/expressjs-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white&color=red)
   ![Mongoose](https://img.shields.io/badge/Mongoose-4ea94b.svg?style=flat-square&logo=&logoColor=white&color=yellow)
   ![MVC Model](https://img.shields.io/badge/MVC%20Model-4ea94b.svg?style=flat-square&logo=&logoColor=white&color=blueviolet)
   ![Resful API Model](https://img.shields.io/badge/Resful%20API%20Model-4ea94b.svg?style=flat-square&logo=&logoColor=white&color=orange)
+  
 - Tools: 
 
   ![VScode](https://img.shields.io/badge/VScode-43853D.svg?style=flat-square&logo=VisualStudioCode&logoColor=white&color=blue): A debugger with syntax highlighting, clever self-completion, snippets, and code upgrades that comes packed with Git.
@@ -104,3 +113,12 @@ https://www.geeksforgeeks.org/node-js-utility-module/
 https://docs.npmjs.com/
 
 https://sailsjs.com/documentation/reference/request-req
+
+https://viblo.asia/p/react-dispatcher-OeVKBwPQZkW
+
+https://tharong.com/dispatch-react-la-gi#cach-ma-redux-lam-viec
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+
+https://www.geeksforgeeks.org/reactjs-router/
+
